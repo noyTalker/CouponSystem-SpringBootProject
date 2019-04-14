@@ -1,5 +1,5 @@
 # Project3
-Coupon System prat 3 - core &amp; server side (Spring Boot project)
+Coupon System part 3 - core &amp; server side (Spring Boot project)
 
 In this part of the project I united the first and second part to one Spring Boot project.
 
@@ -12,7 +12,7 @@ Above the database there is an insulating layer that allowes convenient work fro
 
 In addition there are basic infrastructure services such as ConnectionPool and Daily Thread Which maintain the system and clean expired coupons.
 
-There are three entry points in the system for each of its customers (adamin, company or customer) who will login to execute a connect.
+There are three entry points in the system for each of its customers (admin, company or customer) who will login to execute a connect.
 
 Each of the customers (admin, company and customer) is exposed as a service.
 There are three network services that will enable integration using REST with the system.
