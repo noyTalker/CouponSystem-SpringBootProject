@@ -1,16 +1,14 @@
 # Project3
 Coupon System part 3 - core &amp; server side (Spring Boot project)
 
-In this part of the project I united the first and second part to one Spring Boot project.
-
 The dependencies in this project are JPA, Web and MySQL.
 
-This project is a coupon management system that allows companies to create coupons, customer to purchase coupons, incomes documentation and admin to manages the companies and customers.
+This project is a coupon management system that allows companies to create coupons, customer to purchase coupons, incomes documentation and admin to manages manages all of them.
 
 This project defines a database to store and retrieve information about customers, companies ,coupons and incomes.
 Above the database there is an insulating layer that allowes convenient work from JAVA to SQL for DB operations.
 
-In addition there are basic infrastructure services such as ConnectionPool and Daily Thread Which maintain the system and clean expired coupons.
+In addition, there are basic infrastructure services such as ConnectionPool and Daily Thread Which maintain the system and clean expired coupons.
 
 There are three entry points in the system for each of its customers (admin, company or customer) who will login to execute a connect.
 
