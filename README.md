@@ -16,7 +16,7 @@ Each of the customers (admin, company and customer) is exposed as a service.
 There are three network services that will enable integration using REST with the system.
 
 There is a ApplicationUnitTest in which you can see that the system works. But first you have to pick up the MySQL Server for the DB, and check the username and password of your MySQL in the property file.
-If you want to send a request and get a response by the URL, you need also run the project. The URL is http://localhost:8080/name of the class/name of the method. 
+If you want to send a request and get a response by the URL, you need also run the project. The URL is localhost:8080/name of the class/name of the method. 
 
 
 
