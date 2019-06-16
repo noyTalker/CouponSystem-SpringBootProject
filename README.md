@@ -1,5 +1,5 @@
-# Project3
-Coupon System part 3 - core &amp; server side (Spring Boot project)
+# CouponSystem-SpringBootProject
+Coupon System Project 3 - core &amp; server side (Spring Boot project)
 
 The dependencies in this project are JPA, Web and MySQL.
 
