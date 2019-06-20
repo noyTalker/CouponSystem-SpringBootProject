@@ -6,7 +6,6 @@ The dependencies in this project are JPA, Web and MySQL.
 This project is a coupon management system that allows companies to create coupons, customer to purchase coupons, incomes documentation and admin to manages manages all of them.
 
 This project defines a database to store and retrieve information about customers, companies ,coupons and incomes.
-Above the database there is an insulating layer that allowes convenient work from JAVA to SQL for DB operations.
 
 In addition, there are basic infrastructure services such as ConnectionPool and Daily Thread Which maintain the system and clean expired coupons.
 
